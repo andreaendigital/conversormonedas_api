@@ -20,11 +20,11 @@ Al final, el programa mostrará el valor convertido según la elección del usua
 
 ### ✨ 🚀 Estrategias de implementación: 
 
-Para este proyecto, te recomiendo usar Maven. Es el estándar moderno en el ecosistema Java y tiene dos grandes ventajas para nosotros:
+Para este proyecto, se usa Maven. Es el estándar moderno en el ecosistema Java y tiene dos grandes ventajas :
 
-Gestión de Dependencias: Nos permitirá agregar la biblioteca Gson (y cualquier otra que necesitemos) de forma automática, sin tener que descargar archivos .jar manualmente.
+ - Gestión de Dependencias: Nos permitirá agregar la biblioteca Gson (y cualquier otra que necesitemos) de forma automática, sin tener que descargar archivos .jar manualmente.
 
-Estructura Estándar: Maven define una organización de carpetas clara y consistente, lo cual es una excelente práctica profesional.
+ - Estructura Estándar: Maven define una organización de carpetas clara y consistente, lo cual es una excelente práctica profesional.
 
 
 HttpClient: Es el objeto que se encarga de enviar las solicitudes y recibir las respuestas. Lo creamos una vez y podemos reutilizarlo.
